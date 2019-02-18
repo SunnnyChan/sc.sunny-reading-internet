@@ -1,6 +1,8 @@
 # sc-ebooks
 
-## Computer
+## [Book Reading Note](reading/README.md)
+
+## Book List
 ### C & C++
 * [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
 
