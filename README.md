@@ -1,4 +1,7 @@
 # Sunny‘ Books
+
+## [eBook List](00-PDF/README.md)
+
 ## Book Reading Note
 ### Bigdata
 * [《数据密集型应用系统设计》](bigdata/design-data-intensive-app/README.md)
@@ -66,25 +69,4 @@
 * [《Memory Systems Cache, DRAM, Disk》](https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf)
 * [《What Every Programmer Should Know About Memory》](https://akkadia.org/drepper/cpumemory.pdf)
 
-## eBook List
-### ALG
-
-### C & C++
-* [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
-
-### Python
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-* [Think Python — How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/)
-
-### Web
-* [RESTful Web Services](https://www.crummy.com/writing/RESTful-Web-Services/html/)
-
-### Distributed
-
-### Programming
-* [Why Reactive?](https://github.com/sergiocollado/Books-1/blob/master/why-reactive.pdf)
-
-
-### Reference
-* [Github-programthink](https://github.com/programthink/books#1017_Web_)
 
