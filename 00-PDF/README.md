@@ -5,6 +5,17 @@
 
 ## ALG
 
+## Java
+* [Java书单](https://www.toutiao.com/a6635989731458941454/)
+```md
+《Introducing Java 8》
+《Microservices for Java Developers》
+《Object-Oriented vs. Functional Programming》
+《Modern Java EE Design Patterns》
+《Java: The Legend》 本书带领我们看Java的历史
+
+```
+
 ## C & C++
 * [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
 
