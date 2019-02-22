@@ -20,7 +20,7 @@ Google Java Style
 What’s new in Java 8
 ```
 * [Java: The Legend](https://learning.oreilly.com/library/view/java-the-legend/9781492048299/) 本书带领我们看Java的历史
-
+* Java In a Nutshell (Java 技术手册) [英文](http://www.dblab.ntua.gr/~gtsat/collection/Java%20books/O%27Reilly%20-%20JAVA%20in%20a%20Nutshell.pdf)
 ## C & C++
 * [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
 
