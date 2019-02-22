@@ -6,15 +6,20 @@
 ## ALG
 
 ## Java
-* [Java书单](https://www.toutiao.com/a6635989731458941454/)
+### [Java书单](https://www.toutiao.com/a6635989731458941454/)
 ```md
 《Introducing Java 8》
 《Microservices for Java Developers》
 《Object-Oriented vs. Functional Programming》
 《Modern Java EE Design Patterns》
-《Java: The Legend》 本书带领我们看Java的历史
-
+《Docker for Java Developers》
+《Data Structures and Algorithms in Java》
+《Java Application Development on Linux》
+《Core Servlets and JavaServer Pages》
+Google Java Style
+What’s new in Java 8
 ```
+* [Java: The Legend](https://learning.oreilly.com/library/view/java-the-legend/9781492048299/) 本书带领我们看Java的历史
 
 ## C & C++
 * [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
@@ -24,7 +29,7 @@
 * [Think Python — How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/)
 
 ## Web
-* [RESTful Web Services](https://www.crummy.com/writing/RESTful-Web-Services/html/)
+* [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services/)
 
 ## Linux
 * [The AWK Programming Language](https://github.com/wuzhouhui/awk)
