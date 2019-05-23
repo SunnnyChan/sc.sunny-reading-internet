@@ -3,7 +3,7 @@
 ## [eBook List](00-PDF/README.md)
 
 ## Book Reading Note
-### Bigdata
+### BigData
 * [《数据密集型应用系统设计》](bigdata/design-data-intensive-app/README.md)
 * [《MapReduce 设计模式》](bigdata/mapreduce-dp/README.md)
 * [《数据算法 ： Hadoop/Spark 大数据处理技巧》](bigdata/data-algorithms/README.md)
@@ -55,8 +55,8 @@
 * [~《分布式服务框架：原理与实践》](arch/DS-Service-Framework/README.md)
 * [《Akka 应用模式： 分布式应用程序设计实践指南》](arch/applied-akka-patterns/README.md)
 
-#### Microservice
-* [《Microservices AntiPatterns and Pitfalls》](arch/Microservices-AntiPatterns-and-Pitfalls/README.md)
+#### Micro-Service
+* [《Micro-Services AntiPatterns and Pitfalls》](arch/Microservices-AntiPatterns-and-Pitfalls/README.md)
 
 ### Basic Techniques
 * [《Mastering RE》](basic/mastering-RE/README.md)
