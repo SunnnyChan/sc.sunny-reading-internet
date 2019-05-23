@@ -66,7 +66,7 @@
 * [《区块链核心算法解析》](blockchain/algos_in_blockchain/README.md)
 
 ### Software Engineer
-* [《代码不朽 — 编写可维护代码的10大要则》](bms/README.md)
+* [《代码不朽 — 编写可维护代码的10大要则》](SE/bms/README.md)
 
 ### Computer Architecture
 * [《Memory Systems Cache, DRAM, Disk》](https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf)
