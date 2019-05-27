@@ -1,4 +1,4 @@
-# Linux C 编程一站式学习
+# [Linux C 编程一站式学习](http://akaedu.github.io/book)
 ```md
 By 宋劲杉 
 Reading Note Start : 2018-12-11
@@ -34,7 +34,7 @@ Reading Note Start : 2018-12-11
 #### [26 - 链表、二叉树、哈希表]
 
 ### [部分3 Linux 系统编程]
-#### [28 - 文件与I/O]
+#### [28 - 文件与I/O](chapter/28-file&IO.md)
 #### [29 - 文件系统]
 #### [30 - 进程](chapter/30-process.md)
 #### [31 - Shell 脚本]
