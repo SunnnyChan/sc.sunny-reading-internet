@@ -67,7 +67,7 @@
 
 ### Software Engineer
 * [《代码不朽 — 编写可维护代码的10大要则》](SE/bms/README.md)
-* [《A Philosophy of Software Design 软件设计的哲学》](Philosophy-of-SD/README.md)
+* [《A Philosophy of Software Design 软件设计的哲学》](SE/Philosophy-of-SD/README.md)
 
 ### Computer Architecture
 * [《Memory Systems Cache, DRAM, Disk》](https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf)
