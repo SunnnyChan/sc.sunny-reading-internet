@@ -51,6 +51,8 @@
 * [~《可伸缩架构 : 面向增长应用的高可用》](arch/scalable_arch/README.md)
 * [《企业应用架构模式》](arch/patterns-of-enterprise-app-arch/README.md)
 
+* [《架构整洁之道》](arch/clean-arch/README.md)
+
 #### Distributed Architecture
 * [~《分布式服务框架：原理与实践》](arch/DS-Service-Framework/README.md)
 * [《Akka 应用模式： 分布式应用程序设计实践指南》](arch/applied-akka-patterns/README.md)
