@@ -1,8 +1,12 @@
 
 * Active Record（活动记录）
-
+```md
+包装数据库表或视图中的行、封装数据库访问、并将业务逻辑加到该数据对象上。
+```
 * Application Controller （应用控制器）
-
+```md
+处理屏幕导航和应用流程的集中控制点。
+```
 * Association Table Mapping（关联映射器）
 
 * Class Table Inheritance （类表继承）
@@ -14,26 +18,36 @@
 * Concrete Table Inheritance （具体表继承）
 
 * Data Mapper （数据映射）
-
+```md
+由映射器组成的一个层次，它在对象和数据库之间移动数据，并保证他们之间相互独立，映射器之间相互独立。
+```
 * Data Transfer Object（数据传输对象）
-
+```md
+在进程间进行数据传递的对象，目的是减少进程间方法调用的次数。
+```
 * Database Session State（数据库会话状态）
 
 * Dependent Mapping（依赖映射）
 
-* Domain Model（邻域模型）
-
+* Domain Model（领域模型）
+```md
+既包含行为，又包含数据的领域的对象模型。
+```
 * Embedded Value（嵌入值）
 
 * Foreign Key Mapping （外键映射）
 
 * Front Controller （前端控制器）
-
+```md
+处理Web站点中所有请求的控制器。
+```
 * GateWay （入口）
+```md
+封装对外部系统或资源进行访问的对象。
+```
+* Identity Field （标识域）
 
-* Indentity Field （标识域）
-
-* Indentity Map （标识映射）
+* Identity Map （标识映射）
 
 * Implicit Lock （隐含锁）
 
@@ -42,13 +56,19 @@
 * Layer Supertype（层超类型）
 
 * Lazy Load （延迟加载）
-
+```md
+对象中并不包含所有想要的数据，但知道如何获取这些数据。
+```
 * Mapper （映射器）
-
+```md
+两个独立对象间建立起通信的对象。
+```
 * Metadata Mapping（元数据映射）
 
 * Model View Controller
-
+```md
+将UI分割成三个不同的角色。
+```
 * Money （货币）
 ```md
 表示货币值。
@@ -88,7 +108,9 @@
 * Server Session State（服务器会话状态）
 
 * Service Layer（服务层）
-
+```md
+通过一个服务层来定义应用的边界，这个服务层建立了一组可用的操作并协调应用程序对每个操作请求的响应。
+```
 * Service Stub（服务桩）
 ```md
 测试过程中去除对有问题服务的依赖。

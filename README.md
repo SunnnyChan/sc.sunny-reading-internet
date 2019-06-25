@@ -47,18 +47,17 @@
 * [《Effective SQL : 编写高质量SQL语句的61个有效方法》](db/effective_sql/README.md)
 
 ### Software Architecture
-* [《面向模式的软件架构 - 卷1 ：模式系统》](arch/POSA-sys-of-patterns/README.md)
-* [~《可伸缩架构 : 面向增长应用的高可用》](arch/scalable_arch/README.md)
-* [《企业应用架构模式》](arch/patterns-of-enterprise-app-arch/README.md)
-
-* [《架构整洁之道》](arch/clean-arch/README.md)
+* [《企业应用架构模式》](arch/POEAA/README.md)
+* [《面向模式的软件架构 - 卷1 ：模式系统》](arch/POSA/README.md)
+* [~《可伸缩架构 : 面向增长应用的高可用》](arch/Scalable-Arch/README.md)
+* [《架构整洁之道》](arch/Clean-Arch/README.md)
 
 #### Distributed Architecture
-* [~《分布式服务框架：原理与实践》](arch/DS-Service-Framework/README.md)
-* [《Akka 应用模式： 分布式应用程序设计实践指南》](arch/applied-akka-patterns/README.md)
+* [~《分布式服务框架：原理与实践》](arch/DSSF/README.md)
+* [《Akka 应用模式： 分布式应用程序设计实践指南》](arch/AAP/README.md)
 
 #### Micro-Service
-* [《Micro-Services AntiPatterns and Pitfalls》](arch/Microservices-AntiPatterns-and-Pitfalls/README.md)
+* [《Micro-Services AntiPatterns and Pitfalls》](arch/MSAPP/README.md)
 
 ### Basic Techniques
 * [《Mastering RE》](basic/mastering-RE/README.md)
