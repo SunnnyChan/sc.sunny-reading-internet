@@ -51,6 +51,7 @@
 * [《面向模式的软件架构 - 卷1 ：模式系统》](arch/POSA/README.md)
 * [~《可伸缩架构 : 面向增长应用的高可用》](arch/Scalable-Arch/README.md)
 * [《架构整洁之道》](arch/Clean-Arch/README.md)
+* [《恰如其分的软件架构 - 风险驱动的设计方法》](arch/JESA/README.md)
 
 #### Distributed Architecture
 * [~《分布式服务框架：原理与实践》](arch/DSSF/README.md)
