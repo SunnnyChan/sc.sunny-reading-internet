@@ -47,6 +47,7 @@
 * [《Effective SQL : 编写高质量SQL语句的61个有效方法》](db/effective_sql/README.md)
 
 ### Software Architecture
+* [《系统架构设计》](arch/SAD/README.md)
 * [《企业应用架构模式》](arch/POEAA/README.md)
 * [《面向模式的软件架构 - 卷1 ：模式系统》](arch/POSA/README.md)
 * [~《可伸缩架构 : 面向增长应用的高可用》](arch/Scalable-Arch/README.md)
