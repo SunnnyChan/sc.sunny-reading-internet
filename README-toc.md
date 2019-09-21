@@ -34,7 +34,7 @@
 ### Lua
 #### [~《Lua 程序设计》](language/lua/lua_programming/README.md)
 
-# C & C++
+### C & C++
 #### [~《Linux C 编程一站式学习》](language/C&C++/linux-c-programming/README.md)
 
 ## DataBase
@@ -61,16 +61,16 @@
 ### Micro-Service
 #### [《Micro-Services AntiPatterns and Pitfalls》](arch/MSAPP/README.md)
 
-## Basic Techniques
-#### [《Mastering RE》](basic/mastering-RE/README.md)
-
-## Blockchain
+### Blockchain
 #### [~《去中心化应用 : 区块链技术概述》](blockchain/dapp/README.md)
 #### [《区块链核心算法解析》](blockchain/algos_in_blockchain/README.md)
 
 ## Software Engineer （工程）
 ### [《代码不朽 — 编写可维护代码的10大要则》](SE/bms/README.md)
 ### [《A Philosophy of Software Design 软件设计的哲学》](SE/Philosophy-of-SD/README.md)
+
+## Basic Techniques
+### [《Mastering RE》](basic/mastering-RE/README.md)
 
 ## Computer Architecture
 ### [《Memory Systems Cache, DRAM, Disk》](https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf)
