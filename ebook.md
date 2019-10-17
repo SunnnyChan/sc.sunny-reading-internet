@@ -16,12 +16,9 @@
 ### [《架构探险 ：从零开始写 Java Web 框架》](web/write-a-java-web-framework/README.md)
 
 ## 编程思想
-### [~《冒号课堂》](programme/colon-classroom/README.md)
-### [《函数式编程思维》](programme/functional-thinking/README.md)
-### [《Thinking Like A Programmer》](programme/Thinking-Like-A-Programmer/README.md)
-
-## Profile
-### [《性能之巅：洞悉系统、企业和云计算》](programme/profile/sys-performance/README.md)
+### [~《冒号课堂》](programme/colon-classroom/)
+### [《函数式编程思维》](programme/functional-thinking/)
+### [《Thinking Like A Programmer》](programme/Thinking-Like-A-Programmer/)
 
 ## 编程语言
 ### Java
@@ -64,6 +61,10 @@
 ### Blockchain
 #### [~《去中心化应用 : 区块链技术概述》](blockchain/dapp/README.md)
 #### [《区块链核心算法解析》](blockchain/algos_in_blockchain/README.md)
+
+## 性能
+### [《性能之巅：洞悉系统、企业和云计算》](programme/profile/sys-performance/)
+### [BPF Performance Tools: Linux System and Application Observability](programme/profile/BPF-Perf)
 
 ## Software Engineer （工程）
 ### [《代码不朽 — 编写可维护代码的10大要则》](SE/bms/README.md)
