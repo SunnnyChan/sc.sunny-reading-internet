@@ -79,8 +79,8 @@
 ### [《Memory Systems Cache, DRAM, Disk》](https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf)
 ### [《What Every Programmer Should Know About Memory》](https://akkadia.org/drepper/cpumemory.pdf)
 
-## 互联网
+## 产品
 
 ### [《增长黑客》](product/GrowthHackers/README.md)
-### [《智能增长》](product/SmartGrowth/README.md)
 ### [《首席增长官》](product/CGO/README.md)
+### [《智能增长》](product/SmartGrowth/README.md)
