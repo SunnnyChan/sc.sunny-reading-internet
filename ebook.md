@@ -1,8 +1,8 @@
 
 # [eBook List](00-PDF/README.md)
 
-# Book Reading Note
-## BigData
+# 【Reading Notes】
+## 【BigData】
 ### [《数据密集型应用系统设计》](bigdata/design-data-intensive-app/README.md)
 ### [《MapReduce 设计模式》](bigdata/mapreduce-dp/README.md)
 ### [《数据算法 ： Hadoop/Spark 大数据处理技巧》](bigdata/data-algorithms/README.md)
@@ -11,7 +11,7 @@
 
 ### [《数据战略》](bigdata/DataStrategy/README.md)
 
-## Web
+## 【Web】
 ### [《深入理解 Nginx：模块开发和架构解析》](web/understanding-nginx/README.md)
 ### [《RESTful Web APIS》](web/restful-web-apis/README.md)
 ### [《Java RESTful Web Service 实战》](web/java-restful-web-service-in-action/README.md)
