@@ -9,7 +9,7 @@
 ### [《流式架构 ： Kafka 与 MapR Streams 数据流处理》](bigdata/streaming-architecture/README.md)
 ### [《Hive 编程指南》](bigdata/programming-hive/README.md)
 
-### [《数据战略》]](bigdata/DataStrategy/README.md)
+### [《数据战略》](bigdata/DataStrategy/README.md)
 
 ## Web
 ### [《深入理解 Nginx：模块开发和架构解析》](web/understanding-nginx/README.md)
