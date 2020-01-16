@@ -1,13 +1,12 @@
 # Sunny‘ Books
 
 Table of Contents
-ebook
 =================
 
    * [<a href="00-PDF/README.md">【eBook List】</a>](#ebook-list)
    * [【Reading Notes】](#reading-notes)
       * [【BigData】](#bigdata)
-         * [<a href="bigdata/design-data-intensive-app/README.md">《数据密集型应用系统设计》</a>](#数据密集型应用系统设计)
+         * [<a href="bigdata/design-data-intensive-app/README.md">~《数据密集型应用系统设计》</a>](#数据密集型应用系统设计)
          * [<a href="bigdata/mapreduce-dp/README.md">《MapReduce 设计模式》</a>](#mapreduce-设计模式)
          * [<a href="bigdata/data-algorithms/README.md">《数据算法 ： Hadoop/Spark 大数据处理技巧》</a>](#数据算法--hadoopspark-大数据处理技巧)
          * [<a href="bigdata/streaming-architecture/README.md">《流式架构 ： Kafka 与 MapR Streams 数据流处理》</a>](#流式架构--kafka-与-mapr-streams-数据流处理)
@@ -19,7 +18,7 @@ ebook
          * [<a href="web/java-restful-web-service-in-action/README.md">《Java RESTful Web Service 实战》</a>](#java-restful-web-service-实战)
          * [<a href="web/write-a-java-web-framework/README.md">《架构探险 ：从零开始写 Java Web 框架》</a>](#架构探险-从零开始写-java-web-框架)
       * [【编程思想】](#编程思想)
-         * [<a href="programme/colon-classroom/">~《冒号课堂》</a>](#冒号课堂)
+         * [<a href="programme/colon-classroom/">*《冒号课堂》</a>](#冒号课堂)
          * [<a href="programme/functional-thinking/">《函数式编程思维》</a>](#函数式编程思维)
          * [<a href="programme/Thinking-Like-A-Programmer/">《Thinking Like A Programmer》</a>](#thinking-like-a-programmer)
       * [【编程语言】](#编程语言)
@@ -32,7 +31,7 @@ ebook
          * [【Lua】](#lua)
             * [<a href="language/lua/lua_programming/README.md">~《Lua 程序设计》</a>](#lua-程序设计)
          * [【C &amp; C  】](#c--c)
-            * [<a href="language/C&amp;C  /linux-c-programming/README.md">~《Linux C 编程一站式学习》</a>](#linux-c-编程一站式学习)
+            * [<a href="language/C&amp;C  /linux-c-programming/README.md">*《Linux C 编程一站式学习》</a>](#linux-c-编程一站式学习)
       * [【DataBase】](#database)
          * [<a href="db/hp-mysql/README.md">~《高性能 MySQL》</a>](#高性能-mysql)
          * [<a href="db/mysql-innodb/README.md">~《MySQL 内核 : InnoDB 存储引擎》</a>](#mysql-内核--innodb-存储引擎)
@@ -68,6 +67,6 @@ ebook
          * [<a href="https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf" rel="nofollow">《Memory Systems Cache, DRAM, Disk》</a>](#memory-systems-cache-dram-disk)
          * [<a href="https://akkadia.org/drepper/cpumemory.pdf" rel="nofollow">《What Every Programmer Should Know About Memory》</a>](#what-every-programmer-should-know-about-memory)
       * [【产品】](#产品)
-         * [<a href="product/GrowthHackers/README.md">《增长黑客》</a>](#增长黑客)
+         * [<a href="product/GrowthHackers/README.md">*《增长黑客》</a>](#增长黑客)
          * [<a href="product/CGO/README.md">《首席增长官》</a>](#首席增长官)
          * [<a href="product/SmartGrowth/README.md">《智能增长》</a>](#智能增长)

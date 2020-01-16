@@ -3,7 +3,7 @@
 
 # 【Reading Notes】
 ## 【BigData】
-### [《数据密集型应用系统设计》](bigdata/design-data-intensive-app/README.md)
+### [~《数据密集型应用系统设计》](bigdata/design-data-intensive-app/README.md)
 ### [《MapReduce 设计模式》](bigdata/mapreduce-dp/README.md)
 ### [《数据算法 ： Hadoop/Spark 大数据处理技巧》](bigdata/data-algorithms/README.md)
 ### [《流式架构 ： Kafka 与 MapR Streams 数据流处理》](bigdata/streaming-architecture/README.md)
@@ -18,7 +18,7 @@
 ### [《架构探险 ：从零开始写 Java Web 框架》](web/write-a-java-web-framework/README.md)
 
 ## 【编程思想】
-### [~《冒号课堂》](programme/colon-classroom/)
+### [*《冒号课堂》](programme/colon-classroom/)
 ### [《函数式编程思维》](programme/functional-thinking/)
 ### [《Thinking Like A Programmer》](programme/Thinking-Like-A-Programmer/)
 
@@ -34,7 +34,7 @@
 #### [~《Lua 程序设计》](language/lua/lua_programming/README.md)
 
 ### 【C & C++】
-#### [~《Linux C 编程一站式学习》](language/C&C++/linux-c-programming/README.md)
+#### [*《Linux C 编程一站式学习》](language/C&C++/linux-c-programming/README.md)
 
 ## 【DataBase】
 ### [~《高性能 MySQL》](db/hp-mysql/README.md)
@@ -81,6 +81,6 @@
 
 ## 【产品】
 
-### [《增长黑客》](product/GrowthHackers/README.md)
+### [*《增长黑客》](product/GrowthHackers/README.md)
 ### [《首席增长官》](product/CGO/README.md)
 ### [《智能增长》](product/SmartGrowth/README.md)
