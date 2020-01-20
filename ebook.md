@@ -66,7 +66,7 @@
 
 ## 【性能】
 ### [《性能之巅：洞悉系统、企业和云计算》](programme/profile/sys-performance/)
-### [BPF Performance Tools: Linux System and Application Observability](programme/profile/BPF-Perf)
+### [《BPF Performance Tools: Linux System and Application Observability》](programme/profile/BPF-Perf/README.md)
 
 ## 【Software Engineer （工程）】
 ### [《代码不朽 — 编写可维护代码的10大要则》](SE/bms/README.md)
