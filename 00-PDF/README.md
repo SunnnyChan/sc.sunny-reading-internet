@@ -31,7 +31,6 @@ What’s new in Java 8
 
 ## Micro-Services
 
-
 ## Web
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services/)
 
@@ -42,3 +41,7 @@ What’s new in Java 8
 ## Reference
 * [Github-programthink](https://github.com/programthink/books#1017_Web_)
 * [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+
+## Resources
+* [有了这八个网站，帮你找到90%的电子书](https://www.jianshu.com/p/314cab13cdd8)
+* * [鸠摩搜索](https://www.jiumodiary.com/)
