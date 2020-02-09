@@ -69,6 +69,10 @@ Table of Contents
          * [<a href="https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf" rel="nofollow">《Memory Systems Cache, DRAM, Disk》</a>](#memory-systems-cache-dram-disk)
          * [<a href="https://akkadia.org/drepper/cpumemory.pdf" rel="nofollow">《What Every Programmer Should Know About Memory》</a>](#what-every-programmer-should-know-about-memory)
       * [【产品】](#产品)
-         * [<a href="product/GrowthHackers/README.md">*《增长黑客》</a>](#增长黑客)
-         * [<a href="product/CGO/README.md">《首席增长官》</a>](#首席增长官)
-         * [<a href="product/SmartGrowth/README.md">《智能增长》</a>](#智能增长)
+         * [【增长黑客】](#basic-techniques)
+            * [<a href="product/GrowthHackers/README.md">*《增长黑客》</a>](#增长黑客)
+            * [<a href="product/CGO/README.md">《首席增长官》</a>](#首席增长官)
+            * [<a href="product/SmartGrowth/README.md">《智能增长》</a>](#智能增长)
+
+         * [<a href="product/LeanAnalytics/README.md">《精益数据分析》</a>](#精益数据分析)
+         

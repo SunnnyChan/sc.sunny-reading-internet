@@ -81,6 +81,10 @@
 
 ## 【产品】
 
-### [*《增长黑客》](product/GrowthHackers/README.md)
-### [《首席增长官》](product/CGO/README.md)
-### [《智能增长》](product/SmartGrowth/README.md)
+### 【黑客增长】
+
+#### [*《增长黑客》](product/GrowthHackers/README.md)
+#### [《首席增长官》](product/CGO/README.md)
+#### [《智能增长》](product/SmartGrowth/README.md)
+
+### [《精益数据分析》](product/LeanAnalytics/README.md)
