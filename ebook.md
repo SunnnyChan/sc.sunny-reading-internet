@@ -94,7 +94,7 @@
 
 ## 【产品】
 ### 【黑客增长】
-#### [*《增长黑客》](Product/GrowthHackers/README.md)
+#### [*《增长黑客-如何低成本实现爆发式增长》](Product/GrowthHackers/README.md)
 #### [《首席增长官》](Product/CGO/README.md)
 #### [《智能增长》](Product/SmartGrowth/README.md)
 
