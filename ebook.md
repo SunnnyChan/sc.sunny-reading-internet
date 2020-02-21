@@ -12,9 +12,9 @@
 ### 【Java】
 #### [《Thinking in Java》](Language/Java/Thinking-in-Java/README.md)
 #### [《Effective Java》](Language/Java/Effective-Java/README.md)
-#### [~《Java 并发编程的艺术》](Language/Java/art_of_java_concurrency_programming/README.md)
+#### [*《Java 并发编程的艺术》](Language/Java/art_of_java_concurrency_programming/README.md)
 #### [《图解 Java 多线程设计模式》](Language/Java/java-MT-thread-DP/README.md)
-#### [~《Java 性能权威指南》](Language/Java/java-performance-the-definitive-guide/README.md)
+#### [*《Java 性能权威指南》](Language/Java/java-performance-the-definitive-guide/README.md)
 
 ### 【Lua】
 #### [~《Lua 程序设计》](Language/Lua/lua_programming/README.md)
@@ -23,8 +23,9 @@
 #### [*《Linux C 编程一站式学习》](Language/C&C++/linux-c-programming/README.md)
 
 ## 【软件设计】
-### [《A Philosophy of Software Design (软件设计的哲学)》](SE/Philosophy-of-SD/README.md)
+### [《软件设计的哲学(A Philosophy of Software Design)》](SE/Philosophy-of-SD/README.md)
 ### [《Object-Oriented Analysis and Design with Applications（面向对象分析与设计）》](SE/OOAD/README.md)
+### [《分析模式：可复用的对象模型（Analysis Patterns : Reusable Object Models）》]()
 
 ### 【DDD 领域驱动设计】
 #### [《领域驱动设计：软件核心复杂性应对之道》](SD/DDD/README.md)
@@ -32,15 +33,20 @@
 
 ## 【架构】
 ### [《系统架构设计》](Arch/SAD/README.md)
+### [《系统架构：复杂系统的产品设计与开发》]()
+
 ### [《企业应用架构模式（PoEAA）》](Arch/PoEAA/README.md)
 ### [《面向模式的软件架构 - 卷1 ：模式系统》](Arch/POSA/README.md)
-### [~《可伸缩架构 : 面向增长应用的高可用》](Arch/Scalable-Arch/README.md)
+
+### [*《可伸缩架构 : 面向增长应用的高可用》](Arch/Scalable-Arch/README.md)
 ### [《架构整洁之道》](Arch/Clean-Arch/README.md)
 ### [《恰如其分的软件架构 - 风险驱动的设计方法》](Arch/JESA/README.md)
 ### [《架构即未来 - 现代企业可扩展的架构、流程和组织》](Arch/TAOS/README.md)
 
+### [O'Reilly《Software Architecture Patterns》]()
+
 ### 【分布式架构】
-#### [~《分布式服务框架：原理与实践》](Arch/DSSF/README.md)
+#### [*《分布式服务框架：原理与实践》](Arch/DSSF/README.md)
 #### [《Akka 应用模式： 分布式应用程序设计实践指南》](Arch/AAP/README.md)
 
 ### 【微服务架构】
@@ -50,8 +56,8 @@
 ### [《代码不朽 — 编写可维护代码的10大要则》](SE/BMS/README.md)
 
 ## 【数据库】
-### [~《高性能 MySQL》](DB/hp-mysql/README.md)
-### [~《MySQL 内核 : InnoDB 存储引擎》](DB/mysql-innodb/README.md)
+### [*《高性能 MySQL》](DB/hp-mysql/README.md)
+### [*《MySQL 内核 : InnoDB 存储引擎》](DB/mysql-innodb/README.md)
 ### [《Effective MySQL : Optimizing SQL Statements》](DB/effective_mysql_sql_statements/README.md)
 ### [《Relational Database Index Design and the Optimizers》]()
 ### [《Effective SQL : 编写高质量SQL语句的61个有效方法》](DB/effective_sql/README.md)
@@ -63,7 +69,7 @@
 ### [《架构探险 ：从零开始写 Java Web 框架》](Web/write-a-java-web-framework/README.md)
 
 ## 【大数据】
-### [~《数据密集型应用系统设计》](BigData/design-data-intensive-app/README.md)
+### [*《数据密集型应用系统设计》](BigData/design-data-intensive-app/README.md)
 ### [《MapReduce 设计模式》](BigData/mapreduce-dp/README.md)
 ### [《数据算法 ： Hadoop/Spark 大数据处理技巧》](BigData/data-algorithms/README.md)
 ### [《流式架构 ： Kafka 与 MapR Streams 数据流处理》](BigData/streaming-architecture/README.md)
@@ -72,7 +78,7 @@
 ### [《数据战略》](BigData/DataStrategy/README.md)
 
 ### 【区块链】
-#### [~《去中心化应用 : 区块链技术概述》](Blockchain/dapp/README.md)
+#### [*《去中心化应用 : 区块链技术概述》](Blockchain/dapp/README.md)
 #### [《区块链核心算法解析》](Blockchain/algos_in_blockchain/README.md)
 
 ## 【性能】
