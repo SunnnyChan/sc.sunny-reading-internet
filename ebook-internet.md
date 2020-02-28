@@ -1,7 +1,3 @@
-
-# [【eBook List】](00-PDF/README.md)
-# 极客时间
-
 # 【Reading Notes】
 
 ## 【编程思想】
@@ -100,3 +96,16 @@
 #### [《智能增长》](Product/SmartGrowth/README.md)
 
 ### [《精益数据分析》](Product/LeanAnalytics/README.md)
+
+# [【极客时间】](01-Geektime/README.md)
+
+# [【eBook List】](00-PDF/README.md)
+## 【C & C++】
+### [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
+
+## 【Web】
+### [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services/)
+
+## 【Linux】
+### [The AWK Programming Language](https://github.com/wuzhouhui/awk)
+### [The Linux Command Line 中文](http://billie66.github.io/TLCL/book/）
