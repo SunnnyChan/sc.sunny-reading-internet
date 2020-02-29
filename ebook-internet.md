@@ -74,6 +74,9 @@
 
 ### [《数据战略》](BigData/DataStrategy/README.md)
 
+### 【数据分析】
+#### [《精益数据分析》](Product/LeanAnalytics/README.md)
+
 ### 【区块链】
 #### [*《去中心化应用 : 区块链技术概述》](Blockchain/dapp/README.md)
 #### [《区块链核心算法解析》](Blockchain/algos_in_blockchain/README.md)
@@ -90,12 +93,13 @@
 ### [《What Every Programmer Should Know About Memory》](https://akkadia.org/drepper/cpumemory.pdf)
 
 ## 【产品】
-### 【黑客增长】
-#### [*《增长黑客-如何低成本实现爆发式增长》](Product/GrowthHackers/README.md)
-#### [《首席增长官》](Product/CGO/README.md)
-#### [《智能增长》](Product/SmartGrowth/README.md)
+### 【增长黑客】
+#### [*《增长黑客-如何低成本实现爆发式增长》](Product/GH/GrowthHackers/README.md)
+#### [《智能增长》](Product/GH/SmartGrowth/README.md)
 
-### [《精益数据分析》](Product/LeanAnalytics/README.md)
+#### [《首席增长官》](Product/GH/GrowingIO/CGO/README.md)
+#### [GrowingIO-《用户行为数据分析》](Product/GH/GrowingIO/)
+#### [GrowingIO-《增长黑客手册-如何用数据驱动爆发式增长》](Product/GH/GrowingIO/)
 
 # [【极客时间】](01-Geektime/README.md)
 
