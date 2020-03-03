@@ -97,13 +97,16 @@
 #### [*《增长黑客-如何低成本实现爆发式增长》](Product/GH/GrowthHackers/README.md)
 #### [《智能增长》](Product/GH/SmartGrowth/README.md)
 
-#### [《首席增长官》](Product/GH/GrowingIO/CGO/README.md)
-#### [GrowingIO-《用户行为数据分析》](Product/GH/GrowingIO/)
-#### [GrowingIO-《增长黑客手册-如何用数据驱动爆发式增长》](Product/GH/GrowingIO/)
+#### [GrowingIO -《首席增长官》](Product/GH/GrowingIO/CGO/README.md)
+#### [GrowingIO -《用户行为数据分析》](Product/GH/GrowingIO/)
+#### [GrowingIO -《增长黑客手册-如何用数据驱动爆发式增长》](Product/GH/GrowingIO/)
+
+## 【互联网行业】
+### [《精益创业》]()
 
 # [【极客时间】](01-Geektime/README.md)
 
-# [【eBook List】](00-PDF/README.md)
+# 【eBook List】
 ## 【C & C++】
 ### [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
 
@@ -113,3 +116,4 @@
 ## 【Linux】
 ### [The AWK Programming Language](https://github.com/wuzhouhui/awk)
 ### [The Linux Command Line 中文](http://billie66.github.io/TLCL/book/）
+
