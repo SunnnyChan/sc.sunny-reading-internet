@@ -29,35 +29,35 @@
 #### [《实现领域驱动设计》](SD/Impl-DDD/README.md) 
 
 ## 【架构】
-### [《系统架构设计》](Arch/SAD/README.md)
+### [《系统架构设计》](Architecture/SAD/README.md)
 ### [《系统架构：复杂系统的产品设计与开发》]()
 
-### [《企业应用架构模式（PoEAA）》](Arch/PoEAA/README.md)
-### [《面向模式的软件架构 - 卷1 ：模式系统》](Arch/POSA/README.md)
+### [《企业应用架构模式（PoEAA）》](Architecture/PoEAA/README.md)
+### [《面向模式的软件架构 - 卷1 ：模式系统》](Architecture/POSA/README.md)
 
-### [*《可伸缩架构 : 面向增长应用的高可用》](Arch/Scalable-Arch/README.md)
-### [《架构整洁之道》](Arch/Clean-Arch/README.md)
-### [《恰如其分的软件架构 - 风险驱动的设计方法》](Arch/JESA/README.md)
-### [《架构即未来 - 现代企业可扩展的架构、流程和组织》](Arch/TAOS/README.md)
+### [*《可伸缩架构 : 面向增长应用的高可用》](Architecture/Scalable-Arch/README.md)
+### [《架构整洁之道》](Architecture/Clean-Arch/README.md)
+### [《恰如其分的软件架构 - 风险驱动的设计方法》](Architecture/JESA/README.md)
+### [《架构即未来 - 现代企业可扩展的架构、流程和组织》](Architecture/TAOS/README.md)
 
 ### [O'Reilly《Software Architecture Patterns》]()
 
 ### 【分布式架构】
-#### [*《分布式服务框架：原理与实践》](Arch/DSSF/README.md)
-#### [《Akka 应用模式： 分布式应用程序设计实践指南》](Arch/AAP/README.md)
+#### [*《分布式服务框架：原理与实践》](Architecture/DSSF/README.md)
+#### [《Akka 应用模式： 分布式应用程序设计实践指南》](Architecture/AAP/README.md)
 
 ### 【微服务架构】
-#### [《Micro-Services AntiPatterns and Pitfalls》](Arch/MSAPP/README.md)
+#### [《Micro-Services AntiPatterns and Pitfalls》](Architecture/MSAPP/README.md)
 
 ## 【软件工程】
 ### [《代码不朽 — 编写可维护代码的10大要则》](SE/BMS/README.md)
 
 ## 【数据库】
-### [*《高性能 MySQL》](DB/hp-mysql/README.md)
-### [*《MySQL 内核 : InnoDB 存储引擎》](DB/mysql-innodb/README.md)
-### [《Effective MySQL : Optimizing SQL Statements》](DB/effective_mysql_sql_statements/README.md)
+### [*《高性能 MySQL》](DataBase/hp-mysql/README.md)
+### [*《MySQL 内核 : InnoDB 存储引擎》](DataBase/mysql-innodb/README.md)
+### [《Effective MySQL : Optimizing SQL Statements》](DataBase/effective_mysql_sql_statements/README.md)
 ### [《Relational Database Index Design and the Optimizers》]()
-### [《Effective SQL : 编写高质量SQL语句的61个有效方法》](DB/effective_sql/README.md)
+### [《Effective SQL : 编写高质量SQL语句的61个有效方法》](DataBase/effective_sql/README.md)
 
 ## 【Web】
 ### [《深入理解 Nginx：模块开发和架构解析》](Web/understanding-nginx/README.md)
@@ -74,8 +74,12 @@
 
 ### [《数据战略》](BigData/DataStrategy/README.md)
 
-### 【数据分析】
-#### [《精益数据分析》](Product/LeanAnalytics/README.md)
+## 【数据分析】
+### [《精益数据分析》](DataAnalytics/LeanAnalytics/README.md)
+### [《统计思维：程序员数学之概率统计》](DataAnalytics/StatisticalThinking/)
+
+## 【数据科学】
+## [《面向数据科学家的实用统计学》](DataScience/PSDS/)
 
 ### 【区块链】
 #### [*《去中心化应用 : 区块链技术概述》](Blockchain/dapp/README.md)
@@ -86,7 +90,7 @@
 ### [《BPF Performance Tools: Linux System and Application Observability》](Programme/profile/BPF-Perf/README.md)
 
 ## 【基础技术】
-### [《Mastering RE》](Basics/mastering-RE/README.md)
+### [《Mastering RE》](Cookbook/mastering-RE/README.md)
 
 ## 【计算机架构体系】
 ### [《Memory Systems Cache, DRAM, Disk》](https://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf)
