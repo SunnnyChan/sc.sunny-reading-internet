@@ -79,8 +79,13 @@
 ### [《统计思维：程序员数学之概率统计》](DataAnalytics/StatisticalThinking/)
 
 ## 【数据科学】
+
 ### [《程序员的数学2-概率统计》](DataScience/MathforProgrammer2-PS/)
 ### [《面向数据科学家的实用统计学》](DataScience/PSDS/)
+
+## 【机器学习】
+
+### [《贝叶斯方法-概率编程与贝叶斯推断》](DataScience/ML/BayesianMethods/)
 
 ### 【区块链】
 #### [*《去中心化应用 : 区块链技术概述》](Blockchain/dapp/README.md)
