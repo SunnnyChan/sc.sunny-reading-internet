@@ -79,7 +79,8 @@
 ### [《统计思维：程序员数学之概率统计》](DataAnalytics/StatisticalThinking/)
 
 ## 【数据科学】
-## [《面向数据科学家的实用统计学》](DataScience/PSDS/)
+### [《程序员的数学2-概率统计》](DataScience/MathforProgrammer2-PS/)
+### [《面向数据科学家的实用统计学》](DataScience/PSDS/)
 
 ### 【区块链】
 #### [*《去中心化应用 : 区块链技术概述》](Blockchain/dapp/README.md)
@@ -104,6 +105,10 @@
 #### [GrowingIO -《首席增长官》](Product/GH/GrowingIO/CGO/README.md)
 #### [GrowingIO -《用户行为数据分析》](Product/GH/GrowingIO/)
 #### [GrowingIO -《增长黑客手册-如何用数据驱动爆发式增长》](Product/GH/GrowingIO/)
+
+### 【A/B实验】
+#### [《A/B 测试：创新始于试验》](Product/AB/)
+#### [《数据驱动设计：A／B测试提升用户体验 》](Product/DesignWithData-ImproveUEWithABT/)
 
 ## 【互联网行业】
 ### [《精益创业》]()
