@@ -81,7 +81,7 @@
 ## 【数据科学】
 
 ### [《程序员的数学2-概率统计》](DataScience/MathforProgrammer2-PS/)
-### [《面向数据科学家的实用统计学》](DataScience/PSDS/)
+### [《面向数据科学家的实用统计学》](https://github.com/SunnnyChan/pachygrapsus-crassipes)
 
 ## 【机器学习】
 
