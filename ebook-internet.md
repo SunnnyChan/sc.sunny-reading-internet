@@ -1,7 +1,7 @@
 # 【Reading Notes】
 
 ## 【编程思想】
-### [*《冒号课堂》](Programme/colon-classroom/)
+### [*《冒号课堂》](https://github.com/SunnnyChan/colon-classroom)
 ### [《函数式编程思维》](Programme/functional-thinking/)
 ### [《Thinking Like A Programmer》](Programme/Thinking-Like-A-Programmer/)
 
