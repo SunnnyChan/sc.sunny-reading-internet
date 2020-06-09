@@ -11,10 +11,11 @@ Reading Note Start : 2018-12-06
 ### [04 - Schema 与 数据类型优化]
 
 ### 05 - 创建高性能索引
-* [索引](chapter/chapter-5-1_index.md)
-* [高性能索引策略](chapter/chapter-5-2_index-hp.md)
-* [索引案例](chapter-5-3_index-case.md)
-* [维护索引和表](chapter-5-4_maintain-index-and-table.md)
+* [索引](chapter/chapter-5-1_index.md)  
+* [高性能索引策略](chapter/chapter-5-2_index-hp.md)  
+* [索引案例](chapter/chapter-5-3_index-case.md)  
+* [维护索引和表](chapter/chapter-5-4_maintain-index-and-table.md)  
+
 ### [06 - 查询性能优化]
 ### [07 - MySQL 高级特性]
 ### [08 - 优化 服务器设置]
