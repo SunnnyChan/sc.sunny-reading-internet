@@ -20,9 +20,9 @@
 #### [*《Linux C 编程一站式学习》](Language/C&C++/linux-c-programming/README.md)
 
 ## 【软件设计】
-### [《软件设计的哲学(A Philosophy of Software Design)》](SE/Philosophy-of-SD/README.md)
-### [《Object-Oriented Analysis and Design with Applications（面向对象分析与设计）》](SE/OOAD/README.md)
-### [《分析模式：可复用的对象模型（Analysis Patterns : Reusable Object Models）》]()
+### [《软件设计的哲学(A Philosophy of Software Design)》](SD/Philosophy-of-SD/README.md)
+### [《Object-Oriented Analysis and Design with Applications（面向对象分析与设计）》](SD/OOAD/README.md)
+### [《分析模式：可复用的对象模型（Analysis Patterns : Reusable Object Models）》](SD/AnalysisPatterns/README.md)
 
 ### 【DDD 领域驱动设计】
 #### [《领域驱动设计：软件核心复杂性应对之道》](SD/DDD/README.md)
