@@ -1,2 +1,0 @@
-# Condition 接口
-
